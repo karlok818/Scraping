@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat May  8 17:27:41 2021
 
-@author: Goh Kok Han
+@author: Soo Kar Lok
 """
 
 link = 'https://quotes.toscrape.com/'
